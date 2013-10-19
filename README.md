@@ -1,4 +1,0 @@
-Moviles
-=======
-
-Proyecto de móviles
